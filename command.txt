@@ -1,0 +1,1 @@
+./configure --with-gettext --with-xsl --enable-static --enable-phar --enable-mbstring --enable-sockets --enable-cli --with-curl --with-mysqli --with-pgsql --with-pdo-mysql --with-pdo-pgsql --with-bz2 --enable-bcmath --enable-cli --with-zip --enable-exif --with-openssl --enable-gd --with-zlib --disable-fileinfo
